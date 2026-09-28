@@ -11,6 +11,7 @@ The app is run by Nathan DaRosa in the United States. Questions: nmdarosa4@gmail
 
 **Your account**
 - Your **email address** and **password**. The password is stored only in scrambled (hashed) form by our sign-in provider; nobody can read it, including us.
+- If you add a **passkey** (sign-in with your fingerprint, face or screen lock): only its public key, a name and when it was added and last used. Your fingerprint or face never leaves your phone.
 - Your **username** (shown to other players) and when you joined.
 - What you add to your **profile**: a short bio, a banner color, and which of your own photos (that passed screening) to use as your profile picture and featured photo.
 - Your **friends**: requests you send or receive, and who accepted.
