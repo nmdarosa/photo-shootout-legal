@@ -12,6 +12,8 @@ The app is run by Nathan DaRosa in the United States. Questions: nmdarosa4@gmail
 **Your account**
 - Your **email address** and **password**. The password is stored only in scrambled (hashed) form by our sign-in provider; nobody can read it, including us.
 - Your **username** (shown to other players) and when you joined.
+- What you add to your **profile**: a short bio, a banner color, and which of your own photos (that passed screening) to use as your profile picture and featured photo.
+- Your **friends**: requests you send or receive, and who accepted.
 
 **Your photos and their details**
 - **Photos you take with the in-app camera** and choose to keep. The app can't pick photos from your gallery; it only uses photos taken inside the app.
@@ -20,8 +22,18 @@ The app is run by Nathan DaRosa in the United States. Questions: nmdarosa4@gmail
 **What you do in the app**
 - Which photo you entered in which event round, and when.
 - Your **votes** (which photos you voted for, regular or super vote) and whether you finished voting in a round.
+- Your **likes** and **emoji reactions** on other players' photos.
 - **Screening results** for your photos (see section 3), any **appeal** you send (your message, up to 500 characters) and our reviewer's reply.
 - Your **results and scores**: place, votes received and points for each finished round.
+- **Reports** you send about a photo or player (the reason and your optional note, up to 500 characters) and our decision. The player you report is never told who reported them.
+- Players you **block**. Only you can see your block list; the blocked player isn't told.
+
+**Personal events** (private events you host or are invited to)
+- The event's name, description, times, photo rules and guest limit, and, if the host sets one, the **event area** (the host's location when they set it, plus a distance of up to 25 km).
+- Who was **invited**, and whether each guest accepted or declined.
+- If the host sets a **join code and password**: the code, and the password in scrambled (hashed) form only. We also record failed join attempts (who and when) to stop people guessing passwords; they only count against you for an hour.
+- Which photos each guest added to the event's album.
+- **Saved guest lists**: the list's name and the usernames on it. Only the host who saved it can see it.
 
 **On your phone**
 - Your photos and a list of them are kept in the app's private storage on your phone, so the app works offline. Your sign-in session is also stored there so you stay signed in.
@@ -43,8 +55,9 @@ To do this, your photo is sent to **Anthropic**, whose AI model (Claude) looks a
 
 ## 4. Who can see your information
 
-- **Other players** (signed in) can see your username, the photos you've entered in events once they've passed screening, vote totals, results, scores and the leaderboard. They **can't** see your email, your exact photo locations, your photos that aren't entered in an event, or which photos you voted for.
-- **Our review team** (currently only the person who runs the app) can see photos sent for review and appeals.
+- **Other players** (signed in) can see your username, your profile (bio, banner, profile picture and featured photo), how many friends you have, the photos you've entered in events once they've passed screening, vote totals, results, scores and the leaderboard. They see how many likes and reactions a photo has, but **not** who gave them. Only you and the other person can see a friend request or who your friends are. They **can't** see your email, your exact photo locations, your photos that aren't entered in an event, or which photos you voted for.
+- **In a personal event**, guests who accepted can see the other guests' usernames and, depending on the host's rules, the photos added to its album. People who weren't invited, or who declined, can't. Personal event photos are **never** shown in public events, galleries or the leaderboard. If you leave an event (or the host removes you), your photos leave its album but stay in your own.
+- **Our review team** (currently only the person who runs the app) can see photos sent for review and appeals, and can look at any photo when needed to handle a report, an appeal or a safety problem.
 - **Service providers** that run parts of the app for us (section 5). They may only use your information to provide their service to us.
 - **Nobody else**, unless the law requires it.
 

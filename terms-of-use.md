@@ -64,7 +64,7 @@ In addition to the rules above, don't:
 
 ## 8. If rules are broken
 
-We may remove photos or entries, reset votes or scores, and suspend or close accounts that break these terms, especially for cheating or harmful content. Where we can, we'll tell you why. If you think we got it wrong, email us.
+You can report a photo or player from the app, and block anyone you don't want to hear from. Reports go to our review team; a photo reported by several players may be hidden until we look at it. We may remove photos or entries, clear profile text or pictures, reset usernames, reset votes or scores, and suspend or close accounts that break these terms, especially for cheating or harmful content. Where we can, we'll tell you why. If you think we got it wrong, email us.
 
 ## 9. Deleting your account
 
