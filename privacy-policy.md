@@ -26,6 +26,7 @@ The app is run by Nathan DaRosa in the United States. Questions: nmdarosa4@gmail
 - Your **likes** and **emoji reactions** on other players' photos.
 - **Screening results** for your photos (see section 3), any **appeal** you send (your message, up to 500 characters) and our reviewer's reply.
 - Your **results and scores**: place, votes received and points for each finished round.
+- **Captions** you add to your photos (up to 80 characters). A caption is shown wherever that photo can be seen. The app refuses captions with personal details such as phone numbers, emails, addresses, links or @handles, and blocks swearing and adult or hateful words in captions, usernames, bios and event names.
 - **Reports** you send about a photo or player (the reason and your optional note, up to 500 characters) and our decision. The player you report is never told who reported them.
 - Players you **block**. Only you can see your block list; the blocked player isn't told.
 

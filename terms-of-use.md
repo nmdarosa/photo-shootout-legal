@@ -30,11 +30,13 @@ Photo Shootout is a shared creative space, not a battleground. Be kind, keep it 
 - nudity, sexual content, graphic violence, drugs or weapons being used, or anything illegal;
 - someone else's creative work as the main subject (posters, artwork, book or album covers, screens, large logos), or anything else that breaks copyright or trademark law.
 
+**Captions, usernames, bios and event names** follow the same spirit: no swearing, sexual or adult content, drug references, hateful words or slurs, and no personal details (phone numbers, email addresses, street addresses, links or social media handles). The app checks for these automatically and may refuse text that breaks the rules; we may change or remove text that gets through.
+
 Photos are also expected to be safe to take: respect private property, local laws and other people's privacy, and never put yourself or others at risk for a shot.
 
 ## 4. Screening, review and appeals
 
-Every photo is checked automatically before other players can see it, using an AI service (see the Privacy Policy). Photos that break the rules aren't shown in public events; unclear ones are reviewed by a person. Automated checks can be wrong, so **you can appeal any decision** from your album, and a person will review it. Our decision after review is final for that photo.
+Every photo is checked automatically before other players can see it, using an AI service (see the Privacy Policy). Photos that break the rules aren't shown in public events; unclear ones are reviewed by a person. Automated checks can be wrong about small details, so **you can appeal a rejection that was a close call** (for example a small face far in the background) from your album, and a person will review it. Clear violations (a face or person as the main subject, selfies, family or group photos, or anything explicit or illegal) can't be appealed. Photos that didn't pass, or are being appealed, stay private to you until a person approves them. Our decision after review is final for that photo.
 
 ## 5. Events, voting and scores
 
