@@ -1,7 +1,7 @@
 # Photo Shootout Privacy Policy
 
 
-**Effective date:** September 28, 2026
+**Effective date:** September 28, 2026 · **Last updated:** October 9, 2026
 
 Photo Shootout ("the app", "we") is a photo contest: you take photos with the in-app camera at real places and times, enter them in live events, and vote on other players' photos. This policy explains what information the app collects, why, who can see it, and how to delete it.
 
@@ -18,7 +18,9 @@ The app is run by Nathan DaRosa in the United States. Questions: nmdarosa4@gmail
 
 **Your photos and their details**
 - **Photos you take with the in-app camera** and choose to keep. The app can't pick photos from your gallery; it only uses photos taken inside the app.
+- **Photo names, captions and your own albums:** the names and captions you give your photos (shown to everyone who can see the photo), and albums you create on your profile (their names and which of your photos are in them; only you can see your albums).
 - For each photo: the **time** it was taken and your phone's **time zone**, its size, and its **location** (precise GPS coordinates, how accurate they were, and whether your phone reported a fake-GPS app). Location is recorded only at the moment you take a photo in the app, and only if you've allowed location access.
+- **Area challenges:** when you open the Events screen (and location is allowed), the app sends your phone's last known location to our server to work out which area challenges apply (your city, season and region). It is used only for that and is not stored.
 
 **What you do in the app**
 - Which photo you entered in which event round, and when.
@@ -27,6 +29,8 @@ The app is run by Nathan DaRosa in the United States. Questions: nmdarosa4@gmail
 - **Screening results** for your photos (see section 3), any **appeal** you send (your message, up to 500 characters) and our reviewer's reply.
 - Your **results and scores**: place, votes received and points for each finished round.
 - **Captions** you add to your photos (up to 80 characters). A caption is shown wherever that photo can be seen. The app refuses captions with personal details such as phone numbers, emails, addresses, links or @handles, and blocks swearing and adult or hateful words in captions, usernames, bios and event names.
+- A **push notification token** for each phone you sign in on (only if you allow notifications), plus your notification choices in Settings. The token lets us send you notifications such as results, invites and reminders; it doesn't identify you outside the app.
+- **Feedback** you send from the app: your message, which screen you came from, the app version and your phone model and system version (no photos or location).
 - **Reports** you send about a photo or player (the reason and your optional note, up to 500 characters) and our decision. The player you report is never told who reported them.
 - Players you **block**. Only you can see your block list; the blocked player isn't told.
 
@@ -39,6 +43,10 @@ The app is run by Nathan DaRosa in the United States. Questions: nmdarosa4@gmail
 
 **On your phone**
 - Your photos and a list of them are kept in the app's private storage on your phone, so the app works offline. Your sign-in session is also stored there so you stay signed in.
+- Your camera settings (quality, grid, timer, photo shape, level, HDR) are saved there too.
+- If you turn on the camera's **level**, the app reads your phone's motion sensor to show whether the phone is straight. This is used only on your phone while the camera is open; it isn't stored or sent anywhere.
+
+**Screenshots:** on Android the app blocks screenshots and screen recordings of itself, so players' photos can't easily be copied out of the app.
 
 **What we don't collect:** we don't access your contacts, your photo gallery, or your microphone. We don't use advertising or tracking tools, and we don't sell or share your information for advertising.
 
@@ -51,13 +59,13 @@ The app is run by Nathan DaRosa in the United States. Questions: nmdarosa4@gmail
 
 ## 3. Photo screening (automated, with a human option)
 
-Every photo you keep is checked automatically before other players can see it. The check looks for things public events don't allow: recognizable faces, flags or political symbols, details that could identify someone (like readable license plates or house numbers), explicit, violent or illegal content, and someone else's creative work (like posters or logos). It also notes what kind of scene the photo shows (for example forest or coastline) for landscape events, and signs that a photo might be of a screen or AI-generated.
+Every photo you keep is checked automatically before other players can see it. The check looks for things public events don't allow: recognizable faces, flags or political symbols, details that could identify someone (like readable license plates or house numbers), explicit, violent or illegal content, and someone else's creative work (like posters or logos). It also notes what kind of scene the photo shows (for example forest or coastline) for landscape events, and signs that a photo might be of a screen or AI-generated. In the same check, an AI coach rates the photo's composition, names the photo style it is going for (for example a minimalist landscape or an overhead food flat lay), rates how well it fits that style, and suggests how to do it better (you can turn the style tips off in Settings).
 
 To do this, your photo is sent to **Anthropic**, whose AI model (Claude) looks at it and returns a result. Photos that break a rule aren't shown to other players; unclear ones go to a person for review. **If you disagree with a result, you can appeal** from your album, and a person will review it.
 
 ## 4. Who can see your information
 
-- **Other players** (signed in) can see your username, your profile (bio, banner, profile picture and featured photo), how many friends you have, the photos you've entered in events once they've passed screening, vote totals, results, scores and the leaderboard. They see how many likes and reactions a photo has, but **not** who gave them. Only you and the other person can see a friend request or who your friends are. They **can't** see your email, your exact photo locations, your photos that aren't entered in an event, or which photos you voted for.
+- **Other players** (signed in) can see your username, your profile (bio, banner, profile picture and featured photo), how many friends you have, the photos you've entered in events once they've passed screening, vote totals, results, scores and the leaderboard. They see how many likes and reactions a photo has, but **not** who gave them. They also see each entered photo's AI **composition score**, its **photo style** and how well it fits; the coach's notes and tips on your photos are only for you. If a moderator **features** one of your entered photos as an example in the app's learning section, other players see it there with your username and a short AI-written explanation of how it fits its style (you can ask us to remove it at any time). Only you and the other person can see a friend request or who your friends are. Entered photos can also appear on the Home globe at an **approximate** place (rounded to about 50 km). They **can't** see your email, your exact photo locations, your photos that aren't entered in an event, or which photos you voted for.
 - **In a personal event**, guests who accepted can see the other guests' usernames and, depending on the host's rules, the photos added to its album. People who weren't invited, or who declined, can't. Personal event photos are **never** shown in public events, galleries or the leaderboard. If you leave an event (or the host removes you), your photos leave its album but stay in your own.
 - **Our review team** (currently only the person who runs the app) can see photos sent for review and appeals, and can look at any photo when needed to handle a report, an appeal or a safety problem.
 - **Service providers** that run parts of the app for us (section 5). They may only use your information to provide their service to us.
@@ -68,6 +76,9 @@ To do this, your photo is sent to **Anthropic**, whose AI model (Claude) looks a
 - **Supabase:** hosts the app's database, photo storage and sign-in. Data is stored in Canada (region ca-central-1).
 - **Anthropic:** screens photos (section 3). Photos are sent to Anthropic's API under its commercial terms, which don't allow it to use them to train its models. Anthropic automatically deletes them within 30 days, unless it needs to keep something longer to enforce its usage policies.
 - **Google (Gmail):** sends the app's account emails (like confirmation and password reset), so your email address and the email's contents pass through Google.
+- **Expo:** delivers push notifications to your phone (with your notification token and the notification's text) and delivers app updates; when the app checks for an update, Expo sees basic technical details such as your IP address, app version and phone type.
+- **Google (Firebase Cloud Messaging) and Apple (Push Notification service):** carry push notifications to Android phones and iPhones.
+- **Apple (TestFlight):** if you test the iPhone app through TestFlight, Apple shares with us the information TestFlight collects under Apple's own privacy policy, such as your name or email if you were invited by email, your device model, crash reports and any feedback or screenshots you send through TestFlight.
 
 ## 6. How long we keep it
 
