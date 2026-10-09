@@ -1,7 +1,7 @@
 # Photo Shootout Terms of Use
 
 
-**Effective date:** September 28, 2026
+**Effective date:** September 28, 2026 · **Last updated:** October 9, 2026
 
 Welcome to Photo Shootout, a friendly photo contest where people everywhere shoot photos at real places and times, enter them in live events, and vote on each other's work. These terms are the rules for using the app. By creating an account or using the app, you agree to them and to our [Privacy Policy](privacy-policy.md). If you don't agree, please don't use the app.
 
@@ -20,7 +20,7 @@ Photo Shootout is a shared creative space, not a battleground. Be kind, keep it 
 ## 3. Photo rules
 
 **Every photo must be your own, taken with the in-app camera** at the time and place the event asks for. The app records when and where each photo was taken and checks it. Don't:
-- enter photos from anywhere else (your gallery, other apps, the internet), photos of screens or printed photos, or AI-generated or edited images passed off as camera shots;
+- enter photos from anywhere else (your gallery, other apps, the internet), photos of other pictures (a printed photo, painting, poster, book or magazine page, or any screen or camera display), or AI-generated or edited images passed off as camera shots. Every photo must be your own original shot of the real world;
 - fake your location or time (for example with fake-GPS apps or by changing your phone's clock), or use modified versions of the app or other tricks to get around the checks.
 
 **Public events must not show:**
@@ -36,21 +36,24 @@ Photos are also expected to be safe to take: respect private property, local law
 
 ## 4. Screening, review and appeals
 
-Every photo is checked automatically before other players can see it, using an AI service (see the Privacy Policy). Photos that break the rules aren't shown in public events; unclear ones are reviewed by a person. Automated checks can be wrong about small details, so **you can appeal a rejection that was a close call** (for example a small face far in the background) from your album, and a person will review it. Clear violations (a face or person as the main subject, selfies, family or group photos, or anything explicit or illegal) can't be appealed. Photos that didn't pass, or are being appealed, stay private to you until a person approves them. Our decision after review is final for that photo.
+Every photo is checked automatically before other players can see it, using an AI service (see the Privacy Policy). Photos that break the rules aren't shown in public events; unclear ones are reviewed by a person. Automated checks can be wrong about small details, so **you can appeal a rejection that was a close call** (for example a small face far in the background) from your album, and a person will review it. Clear violations (a face or person as the main subject, selfies, family or group photos, or anything explicit or illegal) can't be appealed. Photos that didn't pass, or are being appealed, stay private to you until a person approves them. Our decision after review is final for that photo. A photo held back only because it shows a face, a flag or political symbol, or identifying details (taken with real GPS) stays private but still counts toward place achievements such as landmarks and continents: you made the trip. Photos held back for any other reason never count. If a photo can't be used (its appeal wasn't approved, or it can't be appealed), you can save a copy to your phone for personal use or delete it; either way it's then removed from the app.
+
+**Weekly photo allowance.** To keep data use down, each account gets 15 photo credits a week (the week resets Monday 00:00 UTC). A photo uses 1 credit for every started 0.75 MB of its file, so a Standard photo usually uses 1 and higher-quality photos (High, Best) use more; the camera shows the cost before you keep a photo. Deleting a photo doesn't give credits back. We may change the allowance, and will say so in the app.
 
 ## 5. Events, voting and scores
 
-- Each event runs in **rounds** with set opening and closing times (for example a worldwide event runs for a full UTC day; city events run from 6 AM to 8 PM local time). Entries and votes are only accepted while a round is open.
-- You can enter **one photo per round** and swap it for another while the round is open. Swapping a photo starts its votes over.
-- **You must enter a round to vote in it.** Each voter gets **4 regular votes (1 point each) and 1 super vote (5 points)** per round. You can't vote for your own photo. You can move or take back votes until you choose "Done voting" or the round closes.
-- Scores are worked out automatically when a round closes, and final results are saved. Double Points events count double.
+- Each event runs in **rounds** with set opening and closing times (for example a worldwide event runs for a full UTC day; city events run from 6 AM to 8 PM local time). Entries are only accepted while a round is open. After a round stops taking photos, **voting stays open for 6 more hours** so the last entries can still collect votes; then the round closes.
+- You can enter **one photo per round**, and one photo can be entered in every event it fits. While the round is open you can switch your entry for another photo, but only until someone votes for it.
+- **You must enter a round to vote in it.** Each voter gets **4 regular votes (1 point each) and 1 super vote (5 points)** per round. You can't vote for your own photo. You can move or take back votes until you choose "Done voting" or voting ends.
+- Scores are worked out automatically when voting ends, and final results are saved. Double Points events count double, and a photo taken during **golden hour** where it was taken (the sun between 4 degrees below and 6 degrees above the horizon, as shown on the app's globe) counts 1.5 times; both together count 3 times.
+- **Personal events** can have their own voting and points. Each personal event keeps voting open for a time after it ends that its host sets (1 hour by default, at most 24 hours). Points from personal events stay inside that event: they never count toward your profile, ranks, leaderboards or achievements.
 - Trading votes, vote rings, or coordinating to game results isn't allowed.
 - **There are no real-world prizes.** Points, ranks, medals and leaderboards are for fun and progress only, have no cash value and can't be sold or transferred. We may adjust scores or remove entries that break these terms.
 
 ## 6. Your photos: you keep them
 
 - **You own the photos you take.** Nothing in these terms takes that away.
-- To run the app, you give us permission to store your photos, check them (including with our AI screening provider), and show the photos you enter in events to other players inside the app, together with your username, votes, scores and results. This permission is worldwide, free, and lasts as long as the photo is in the app. It ends when you delete the photo or your account, except for copies in backups for a limited time and final results (which keep your username and score, but not the photo, if the photo is deleted).
+- To run the app, you give us permission to store your photos, check them (including with our AI screening provider), and show the photos you enter in events to other players inside the app, together with your username, votes, scores and results. If a moderator features one of your entered photos as an example in the app's learning section, it is shown there with your username and a short explanation of how it fits its style; email us to have it removed at any time. This permission is worldwide, free, and lasts as long as the photo is in the app. It ends when you delete the photo or your account, except for copies in backups for a limited time and final results (which keep your username and score, but not the photo, if the photo is deleted).
 - We won't sell your photos or use them in advertising without asking you first.
 - You promise the photos you enter are yours and follow these rules, and that showing them in the app doesn't break anyone else's rights.
 
