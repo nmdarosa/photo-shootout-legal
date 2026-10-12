@@ -47,7 +47,7 @@ Every photo is checked automatically before other players can see it, using an A
 - **You must enter a round to vote in it.** Each voter gets **4 regular votes (1 point each) and 1 super vote (5 points)** per round. You can't vote for your own photo. You can move or take back votes until you choose "Done voting" or voting ends.
 - Scores are worked out automatically when voting ends, and final results are saved. Double Points events count double, and a photo taken during **golden hour** where it was taken (the sun between 4 degrees below and 6 degrees above the horizon, as shown on the app's globe) counts 1.5 times; both together count 3 times.
 - **Personal events** can have their own voting and points. Each personal event keeps voting open for a time after it ends that its host sets (1 hour by default, at most 24 hours). Points from personal events stay inside that event: they never count toward your profile, ranks, leaderboards or achievements.
-- Trading votes, vote rings, or coordinating to game results isn't allowed.
+- Trading votes, vote rings, or coordinating to game results isn't allowed. Automated checks look for suspicious voting patterns (for example two accounts used on the same phone voting for each other); a person reviews every flag before any votes are removed, and votes are only removed from rounds that are still open for voting.
 - **There are no real-world prizes.** Points, ranks, medals and leaderboards are for fun and progress only, have no cash value and can't be sold or transferred. We may adjust scores or remove entries that break these terms.
 
 ## 6. Your photos: you keep them
